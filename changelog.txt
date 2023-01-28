@@ -1,0 +1,37 @@
+Version: 2.0 (Hiện tại)
+  - Nâng cấp giao diện mới (Trực quan hơn, đẹp mắt hơn)
+  - Bổ sung tính năng: Thêm đồng hồ vào đầu trang, màn hình chờ khi kết nối kém hoặc không nhận đủ file javascript cần thiết
+  - Thêm file JS bổ sung, phục vụ cho hiệu suất hoạt động của trang và các css
+  tương tự
+  - Cập nhật thêm các thư viện bên thứ 3 hỗ trợ thực thi JS (aos, glightbox, swiper, purecounter_vanilla)
+  - Sửa các lỗi nhỏ trong quá trình thực thi 
+  - Cập nhật tài liệu chỉnh sửa vào trang
+  - Tăng tốc độ thực thi đối với dữ liệu có số lượng so sánh quá lớn.
+
+Version: 1.3
+  - Bổ sung chức năng "dừng" và "tiếp tục" thực thi thuật toán (QUAN TRỌNG)
+  - Sửa các lỗi nhỏ trong quá trình thực thi 
+  - Tối ưu code
+  - Fix lỗi thuật toán dừng ở bước lặp 2 khi người dùng đưa tập tin vào
+  - Fix lỗi chương trình không thực thi được đối với dữ liệu tập tin trên 20 phần tử
+
+Version: 1.2
+  - Thiết kế lại hình thức của biểu đồ so sánh (từ đơn sắc sang màu biến đổi tuyến tính)
+  - Sửa font chữ và bổ sung css
+  - Bổ sung các thông báo chức năng nhằm trực quan hóa giao diện
+  - Bổ sung tính năng cho phép người dùng "nhập dữ liệu từ tập tin" (QUAN TRỌNG)
+  - Sửa các lỗi nhỏ trong quá trình thực thi 
+
+Version: 1.1
+  - Sửa lỗi responsive và các nút chức năng hoạt động không đúng cách
+  - Sửa lỗi javascript bị ghi đè và xung đột giữa các hàm khi tạo ra 1 file javascript khác
+  - Bổ sung tính năng cho người dùng "nhập dữ liệu từ bàn phím" (QUAN TRỌNG)
+  - Fix lỗi thuật toán đang chạy thì bị dừng
+  - Thêm các đường dẫn tải xuống tài liệu khi không rõ cách hoạt động của trang web
+  - Sửa các lỗi nhỏ trong quá trình thực thi 
+
+Version: 1.0
+  - Khởi chạy trang web lần đầu
+  - Thêm tính năng "tạo sơ đồ", "làm mới sơ đồ", "chạy thuật toán", "xóa sơ đồ" (QUAN TRỌNG)
+
+/* TÀI LIỆU LƯU TRỮ QUÁ TRÌNH FIX LỖI VÀ PHÁT HIỆN LỖI */
